@@ -1,5 +1,8 @@
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.scss';
+import Home from './components/Home';
+import Cards from './components/Cards';
+import BackgroundImage from './components/BackgroundImage';
 
 function App() {
   return (
